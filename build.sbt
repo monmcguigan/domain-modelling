@@ -1,0 +1,1 @@
+lazy val `domain-modelling` = project.in(file("."))
